@@ -33,7 +33,6 @@ function updateMargin(){
     document.querySelector('.slider--width').style.marginLeft =
     `-${newMargin}px`;
 }
-// setInterval(goNext, 2000);
+setInterval(goNext, 2000);
 
 
-// pausa video 2, iniciando video 3
